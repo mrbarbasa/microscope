@@ -1,6 +1,6 @@
 # Microscope
 
-Directly from the [Microscope GitHub page](https://github.com/DiscoverMeteor/Microscope):
+Directly from the [DiscoverMeteor GitHub page](https://github.com/DiscoverMeteor/Microscope):
 
 Microscope is a simple social news app that lets you share links, comment, and vote on them.
 
