@@ -1,6 +1,6 @@
 # Microscope
 
-Directly from the [DiscoverMeteor GitHub page](https://github.com/DiscoverMeteor/Microscope):
+*Directly from the [DiscoverMeteor GitHub page for Microscope](https://github.com/DiscoverMeteor/Microscope):*
 
 Microscope is a simple social news app that lets you share links, comment, and vote on them.
 
@@ -14,3 +14,7 @@ Microscope itself is free and open-source, and is a good example of common Meteo
 - Errors
 - Publications/Subscriptions
 - Permissions
+
+Notes
+-----
+[Link](http://microverse.meteor.com) to my deployment of the app.
